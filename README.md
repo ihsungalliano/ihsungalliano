@@ -1,16 +1,25 @@
-## Hi there 👋
+### Ehsan Mozhdeh (ihsun galliano) is a software engineer with experience since 2016.
 
-<!--
-**ihsungalliano/ihsungalliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He designs and builds backend services and mobile apps that are made to survive real-world use — under real load, with real deadlines, and real users who don’t care how elegant the code is (unless it breaks).
 
-Here are some ideas to get you started:
+His main tools include:
+- Python & Django — for solid, maintainable APIs
+- Flutter — for cross-platform mobile apps with native-like performance
+- PostgreSQL, Redis, Docker, and a healthy respect for production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 This is a new GitHub profile (the original one was affected by regional access limitations), but the experience behind it spans nearly a decade.
+
+Key values in his work:
+- Code that remains understandable months later
+- Clarity and maintainability over cleverness
+- Logs that tell the truth
+- Systems that are boring — in a good way
+
+He has contributed to:
+- Fintech systems with thousands of daily users
+- Scalable e-commerce and logistics platforms
+- Internal tools designed for fast teams, not fancy code
+
+---
+
+Available for thoughtful collaborations, distributed teams, and real-world projects that reward focus over flair.
