@@ -3,7 +3,7 @@
 He designs and builds backend services and mobile apps that are made to survive real-world use — under real load, with real deadlines, and real users who don’t care how elegant the code is (unless it breaks).
 
 His main tools include:
-- Python & Django — for solid, maintainable APIs
+- Python & Django & FastAPI — for solid, maintainable APIs
 - Flutter — for cross-platform mobile apps with native-like performance
 - PostgreSQL, Redis, Docker, and a healthy respect for production
 
